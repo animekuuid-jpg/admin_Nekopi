@@ -12,12 +12,9 @@ var ADMIN_PASSWORD = "P";
 var VERIFIED_ICON_URL = "https://cdn.phototourl.com/member/2026-09-27-ed3d428a-b1fc-4bdd-9949-5896ceacb079.png";
 
 /* ==================== UPLOAD CONFIG ==================== */
-var UPLOAD_API = "https://api.animekuu.web.id";
-var UPLOAD_APIS = [
-  "https://video.animekuu.web.id",
-  "https://cdn.animekuu.web.id",
-  "https://media.animekuu.web.id"
-];
+// KEMBALIKAN KE INI
+var UPLOAD_API = "https://ikoadmin.animekuu.web.id"; // Atau relative path ""
+var UPLOAD_APIS = [""]; 
 
 /* ==================== RESOLUSI ==================== */
 var RESOLUTIONS = ["360p", "480p", "720p", "1080p"];
