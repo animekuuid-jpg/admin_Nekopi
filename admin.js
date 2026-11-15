@@ -14,7 +14,7 @@ var VERIFIED_ICON_URL = "https://cdn.phototourl.com/member/2026-09-27-ed3d428a-b
 /* ==================== UPLOAD CONFIG ==================== */
 var UPLOAD_API = "https://video.animekuu.web.id";
 var UPLOAD_APIS = [
-  "https://video.animekuu.web.id",
+  "https://api.animekuu.web.id",
   "https://cdn.animekuu.web.id",
   "https://media.animekuu.web.id"
 ];
